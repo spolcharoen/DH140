@@ -1,7 +1,7 @@
 # up206a
 
 # Digital Humanities 140: Coding for Humanities
-DH140 Website by Pawan (Sine) Polcharoen
+DH140 W21 Website by Pawan (Sine) Polcharoen
 
 ## About Me
 Hello! My name is Pawan (Sine) Polcharoen and I am currently a second-year UCLA Statistics major and Digital Humanities minor. Originally, I am from Bangkok, Thailand, but I am stationed in Westwood for now. Through data science, I hope to explore various topics, such as UX design research, social justice work, and advertising/marketing in the entertainment industry. Outside of school, I enjoy singing, cooking and baking, and traveling!
