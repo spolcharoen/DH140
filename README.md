@@ -17,6 +17,11 @@ My research interests include music, advertising and marketing, UX design, and s
 * Explore what variables are affecting popular music trends.
 * Explore how social media marketing is changing companies' ad campaigns.
 * Explore the extend of the affect of the Coronavirus pandemic on the music industry, in regard to sales and shifting to an online format.
+* Explore environmental racism that has been exemplified during the pandemic.
 
-My objectives for 
+My objectives for the course are to:
+* Gain a deeper understanding of how data can be used to answer humanistic research questions.
+* Develop and practice data science and coding skills, specifically Python and creating data visualizations.
+* Learn how to produce a professional report that entails a cohesive narrative of the data science process and how I came to my conclusion.
+* Have fun and learn something new! :smiley:
 
